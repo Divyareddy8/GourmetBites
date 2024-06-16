@@ -13,11 +13,11 @@ cd GourmetBites
 npm install
 
 3.Run the Website:
-// In backend directory
-npm run dev ;
-// This will start the backend server
+// In backend directory: 
+npm run dev 
+// This will start the backend server;
 
-// In frontend directory
+// In frontend directory:
 npm start
 // This will start the frontend server
 
