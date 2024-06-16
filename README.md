@@ -5,16 +5,16 @@ Node.js (LTS version recommended)
 MongoDB (Ensure MongoDB is running on your local machine or provide a connection string to a remote MongoDB instance)
 
 ## Setup
-1.Clone the Repository
+1.Clone the Repository:
 git clone https://github.com/Divyareddy8/GourmetBites
 cd GourmetBites
 
-2.Install Dependencies
+2.Install Dependencies:
 npm install
 
 3.Run the Website:
 // In backend directory
-npm run dev
+npm run dev ;
 // This will start the backend server
 
 // In frontend directory
