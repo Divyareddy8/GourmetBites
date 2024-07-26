@@ -1,28 +1,48 @@
-## Prerequisites
-Make sure you have the following installed on your local machine:
 
-Node.js (LTS version recommended)
-MongoDB (Ensure MongoDB is running on your local machine or provide a connection string to a remote MongoDB instance)
+# GourmetBites
+
+GourmetBites is a web application for food enthusiasts, offering a seamless experience to explore, order, and enjoy gourmet dishes.
+
+## Prerequisites
+
+Ensure you have the following installed on your local machine:
+
+- Node.js (LTS version recommended)
+- MongoDB (Ensure MongoDB is running on your local machine or provide a connection string to a remote MongoDB instance)
 
 ## Setup
-1.Clone the Repository:
+
+### 1. Clone the Repository
+
+```bash
 git clone https://github.com/Divyareddy8/GourmetBites
 cd GourmetBites
+```
 
-2.Install Dependencies:
+### 2. Install Dependencies
+
+```bash
 npm install
+```
 
-3.Run the Website:
-// In backend directory: 
-npm run dev 
-// This will start the backend server;
+### 3. Run the Website
 
-// In frontend directory:
+#### Start the Backend Server
+
+Navigate to the `backend` directory and run:
+
+```bash
+npm run dev
+```
+
+#### Start the Frontend Server
+
+Navigate to the `frontend` directory and run:
+
+```bash
 npm start
-// This will start the frontend server
+```
 
-4.Access the Website
-
-Navigate to http://localhost:5173 in your web browser to use the application.
+This will start the frontend server.
 
 
